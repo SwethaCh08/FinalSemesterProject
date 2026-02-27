@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: eeae776535ead504fa15e9ae4729adf4
+  productGUID: 964ce80d58d685943af5db9f01392153
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FirstPersonGame
+  productName: TestingAssets
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FirstPersonGame
+  metroPackageName: TestingAssets
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FirstPersonGame
+  metroApplicationDescription: TestingAssets
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -916,10 +916,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 27927788-8321-4225-925c-54f0a8b68f81
+  cloudProjectId: 2700f766-9bd4-4a76-a5e8-abe14b0e84c6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FirstPersonGame
+  projectName: TestingAssets
   organizationId: swethach
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
